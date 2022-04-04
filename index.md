@@ -1,11 +1,10 @@
 # **Katherine Wilson**
-### Aerospace Engineering, MS
-### Electrical Engineering, BE
+### Aerospace Engineering, Electrical Engineering
 
 ## Code for Publications and Projects
 
-# **Publications List [Link](https://scholar.google.com/citations?user=674LZV8AAAAJ&hl=en)**
-## _Cornell University PhD_
+# **[Publications List](https://scholar.google.com/citations?user=674LZV8AAAAJ&hl=en)**
+## _Cornell University_
 ### doi:[Link](url) 
 ### doi:[Link](url)
 ### doi:[Link](url)
